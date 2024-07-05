@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\dotnetproject\\datingApp\\demo\\datingAPp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\dotnetproject\\demo\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\User\\dotnetproject\\datingApp\\demo\\datingAPp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\User\\dotnetproject\\demo\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\dotnetproject\\datingApp\\demo\\datingAPp\\API\\obj\\",
+      "outputPath": "C:\\Users\\User\\dotnetproject\\demo\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
